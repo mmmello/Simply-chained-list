@@ -3,9 +3,9 @@
 A simply chained list is a sequence of nodes, where each node contains information of some data type and the address of the next node.
 The current project consists of a basic implementation of a simply chained list.
 
-The program is developed in the C programming language
+The program is developed in the C programming language.
 
-### The program provides 7 options
+#### The program provides 7 options
 1 - Insert at the beginning
 </br>2 - Insert at the end
 </br>3 - Show
