@@ -7,12 +7,12 @@ The program is developed in the C programming language
 
 ### The program provides 7 options
 1 - Insert at the beginning
-2 - Insert at the end
-3 - Show
-4 - Change list
-5 - Delete 1 element
-6 - Delete all
-0 - Finish
+</br>2 - Insert at the end
+</br>3 - Show
+</br>4 - Change list
+</br>5 - Delete 1 element
+</br>6 - Delete all
+</br>0 - Finish
 
 For the current project, we have taken as a basis the idea that no repeated numbers will be inserted.
 
