@@ -5,14 +5,16 @@ The current project consists of a basic implementation of a simply chained list.
 
 The program is developed in the C programming language.
 
-#### The program provides 7 options
-1 - Insert at the beginning
-</br>2 - Insert at the end
-</br>3 - Show
-</br>4 - Change list
-</br>5 - Delete 1 element
-</br>6 - Delete all
-</br>0 - Finish
+### The program provides 7 options
+<ul>
+  <li>Insert at the beginning.</li>
+  <li>Insert at the end.</li>
+  <li>Show.</li>
+  <li>Change list.</li>
+  <li>Delete 1 element.</li>
+  <li>Delete all.</li>
+  <li>Finish.</li>
+</ul>
 
 For the current project, we have taken as a basis the idea that no repeated numbers will be inserted.
 
